@@ -1,0 +1,82 @@
+.googlef
+{	text-align:center;
+	float:right;
+	position:relative;
+	color:black;
+	text-decoration:none;
+	font-size:14px;
+	font-family:sans-serif;
+}
+.googlef:hover
+{	text-decoration:underline;
+}
+img
+{	margin-top:130px;
+	margin-left:200px;
+	margin-bottom:20px;
+}
+#img2
+{	margin-top:130px;
+	margin-left:65px;
+	
+}
+#text1,#text2
+{	border-radius:25px;
+	width:542px;
+	height:44px;
+	border:0.4px solid black;
+	margin-bottom:20px;
+	font-size:20px;
+}
+#text1:hover,#text2:hover
+{	border:0.5px solid grey;
+}
+#in1,#submit1
+{	width:127.41px;
+	height:46px;
+	background-color:white;
+	border:none;
+}
+#in2
+{	width:142.5px;
+	height:46px;
+	background-color:white;
+	border:none;
+}
+#submit1
+{	font-size:15px;
+}
+#in1:hover,#in2:hover,#submit1:hover
+{	border-radius:10px;
+	border:0.5px solid grey;
+}
+h3
+{	margin-top:30px;
+	margin-left:10px;	
+	color:red;
+}
+table,.veda
+{	margin-left:10px;
+	font-family:sans-serif;
+}
+table
+{	width:800px;
+	height:200px;
+}
+.veda
+{	text-decoration:none;
+		
+}
+.giri
+{	width:381.59px;
+	height:30px;
+	border-radius:3px;
+	border:0.5px solid grey;
+}
+#advanced
+{	margin-left:536px;
+	color:white;
+	background-color:blue;
+	width:120px;
+	height:30px;
+}
